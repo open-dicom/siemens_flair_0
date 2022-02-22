@@ -4,6 +4,8 @@ Sample FLAIR acquisition from a Siemens Prisma.
 
 ![Preview](preview.png)
 
+[View NIfTI in NiiVue](https://niivue.github.io/niivue/features/view.html?url=https://open-dicom.github.io/siemens_flair_0/nii/converted.nii.gz)
+
 ## General Information
 
 |      Tag     | Name                      | Value                 |
